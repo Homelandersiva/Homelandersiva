@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Homelandersiva
-- 👀 I’m interested in ...sssecret
-- 🌱 I’m currently learning ...y
-- 💞️ I’m looking to collaborate on ... Nothing
-- 📫 How to reach me ...u can't
+- 👀 I’m interested in ...doing research and analytics...
+- 🌱 I’m currently learning ...machine learning
+- 💞️ I’m looking to collaborate on ...anything
+- 📫 How to reach me ...@homelandersiva instagram
 
 <!---
 Homelandersiva/Homelandersiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
